@@ -1,7 +1,7 @@
 # Predicting-Employee-Attrition
-# Focus
+## Focus
 Predict employee attrition in Python machine learning
-# Data Descriptions 
+## Data Descriptions 
 The dataset consists of 25491 obseravtions and 10 variables. Each row in dataset represents an employee; each column contains employee attributes:
 
 satisfaction_level (0–1)
